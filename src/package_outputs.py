@@ -294,7 +294,7 @@ def build_workbook(z, sites, scen, sched, sched_long, comp, names):
 
     # ---------------- Inputs ----------------
     title(ws_inp, "Inputs and model settings",
-          "Every value is a placeholder I chose. None come from Amazon. See docs/assumptions.md.")
+          "Every value is a placeholder I chose, not company data. See docs/assumptions.md.")
     header(ws_inp, 3, ["Setting", "Value", "Used in this workbook?", "Meaning"])
     settings = [
         ("Station capacity (share of total demand)", BASE["capacity_share"], "0%", "Yes",
@@ -504,7 +504,7 @@ def build_workbook(z, sites, scen, sched, sched_long, comp, names):
 
     # ---------------- Summary ----------------
     title(ws_sum, "Summary: naive baseline against optimized layout",
-          "Public data and placeholder assumptions. Not Amazon data. The baseline is a simple nearest station layout, not a real network.")
+          "Public data and placeholder assumptions. No company data. The baseline is a simple nearest station layout, not a real network.")
     header(ws_sum, 4, ["Measure", "Baseline", "Optimized", "Change", "Change %"])
     r = 5
     row_of = {}
@@ -556,7 +556,7 @@ def build_workbook(z, sites, scen, sched, sched_long, comp, names):
          "which ZIP codes each one serves, and in what order new stations should open over five years.", False),
         ("", False),
         ("What it is not", True),
-        ("It does not use Amazon data. Demand is a proxy built from Census households, income and density. "
+        ("It does not use any company's delivery data. Demand is a proxy built from Census households, income and density. "
          "Candidate sites are statistical centers, not real locations. Capacity, cost, radius and growth "
          "trend values are placeholders I chose and tested.", False),
         ("", False),

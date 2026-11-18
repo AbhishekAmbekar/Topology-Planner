@@ -2,7 +2,7 @@
 
 Project: Delivery station topology planner for Tennessee and South Carolina
 
-This project uses public data and my own assumptions. It does not use Amazon data. Candidate sites are statistical centers, not real locations. Every number marked "placeholder" is a stand in that I test in the sensitivity runs.
+This project uses public data and my own assumptions. It does not use any company's delivery data. Candidate sites are statistical centers, not real locations. Every number marked "placeholder" is a stand in that I test in the sensitivity runs.
 
 ## 1. Scope
 
@@ -36,7 +36,7 @@ This project uses public data and my own assumptions. It does not use Amazon dat
 | Maximum drive radius | 45 road miles (placeholder) | Keeps service times realistic | Tested at 35 and 60 miles |
 | Minimum coverage | 95 percent of demand served within the radius (placeholder) | Real networks do not serve every rural ZIP from a station | Tested at 90 and 98 percent |
 | Cost of leaving a ZIP unserved | 50 miles of driving per unit of demand (placeholder) | Kept low so the model does not open sites for tiny pockets | Not tested |
-| Baseline | Naive layout: the 14 busiest sites, each ZIP to its nearest open site, no capacity checks | A simple point of comparison. It is not Amazon's network. | Rerun with 22 baseline sites |
+| Baseline | Naive layout: the 14 busiest sites, each ZIP to its nearest open site, no capacity checks | A simple point of comparison. It is not a real network. | Rerun with 22 baseline sites |
 | Lead time for new sites | New sites can open from Year 1 (Base and High growth) or from Year 3 (Delayed scenarios) (placeholder) | Sites take time to approve and build | Delayed scenarios |
 | Safety buffer | A station counts as full at 90 percent of its Week 2 capacity (placeholder) | Real planners do not run stations at 100 percent | Not tested |
 | Launch limit | At most 2 new sites open per year (placeholder) | Stands in for a budget limit | Not tested |

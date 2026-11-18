@@ -2,7 +2,7 @@
 
 A model that plans where last mile delivery stations should go in Tennessee and South Carolina, which ZIP codes each station serves, and when new stations should open as demand grows.
 
-I built it as a supply chain portfolio project. It uses public Census data and placeholder assumptions that I chose and tested. It does not use Amazon data, and it does not describe any real company's network.
+I built it as a supply chain portfolio project. It uses public Census data and placeholder assumptions that I chose and tested. It does not use any company's delivery data, and it does not describe a real network.
 
 **[Open the interactive map](https://abhishekambekar.github.io/Topology-Planner/)** (hover over any ZIP or station, and switch layers on the right)
 

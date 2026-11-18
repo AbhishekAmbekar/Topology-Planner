@@ -3,7 +3,7 @@ optimize.py
 Week 2: decide which candidate sites to open and which ZIPs each one serves.
 
 What it does:
-  1. Builds a simple baseline (a naive layout, NOT Amazon's real network)
+  1. Builds a simple baseline (a naive layout, not a real network)
   2. Solves a capacitated facility location model
   3. Compares baseline and optimized layouts
   4. Optionally runs sensitivity tests (--sensitivity)
