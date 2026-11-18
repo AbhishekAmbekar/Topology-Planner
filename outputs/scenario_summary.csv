@@ -1,0 +1,25 @@
+scenario,year,demand_index,sites_open,new_sites,avg_miles,busiest_pct_of_target,sites_over_target,demand_over_target_pct,covered_demand_pct
+Base,0,100,22,0,15.5,99,0,0.0,95.1
+Base,1,103,22,0,15.5,100,0,0.0,95.2
+Base,2,107,22,0,15.6,103,2,0.3,95.0
+Base,3,111,23,1,15.4,101,3,0.2,95.0
+Base,4,114,24,1,15.4,100,2,0.0,95.2
+Base,5,118,24,0,15.5,101,3,0.2,95.0
+High growth,0,100,22,0,15.5,99,0,0.0,95.1
+High growth,1,106,22,0,15.5,102,4,0.3,95.0
+High growth,2,113,23,1,15.5,103,2,0.2,95.0
+High growth,3,119,25,2,14.6,106,2,0.5,95.0
+High growth,4,127,27,2,14.0,105,2,0.4,95.0
+High growth,5,135,27,0,14.0,113,3,1.2,95.1
+Delayed launches,0,100,22,0,15.5,99,0,0.0,95.1
+Delayed launches,1,103,22,0,15.5,100,0,0.0,95.2
+Delayed launches,2,107,22,0,15.5,102,2,0.2,95.0
+Delayed launches,3,111,23,1,15.4,101,3,0.2,95.0
+Delayed launches,4,114,24,1,15.4,100,2,0.0,95.2
+Delayed launches,5,118,24,0,15.5,101,3,0.2,95.0
+"High growth, delayed",0,100,22,0,15.5,99,0,0.0,95.1
+"High growth, delayed",1,106,22,0,15.5,102,3,0.2,95.0
+"High growth, delayed",2,113,22,0,15.7,109,2,0.9,95.0
+"High growth, delayed",3,119,24,2,15.5,106,1,0.5,95.0
+"High growth, delayed",4,127,26,2,14.2,109,2,1.0,95.0
+"High growth, delayed",5,135,27,1,14.0,113,2,1.1,95.0

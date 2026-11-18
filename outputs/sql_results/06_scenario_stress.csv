@@ -1,0 +1,5 @@
+scenario,demand_index_year5,stations_year5,busiest_station_peak,worst_demand_over_target_pct
+Base,118,24,103,0.3
+Delayed launches,118,24,102,0.2
+High growth,135,27,113,1.2
+"High growth, delayed",135,27,113,1.1

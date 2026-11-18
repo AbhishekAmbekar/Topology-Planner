@@ -1,0 +1,11 @@
+state,county_name,zips,demand,yearly_growth_pct
+SC,Jasper County,2,7581.0,5.0
+SC,Horry County,16,176577.0,3.9
+SC,Berkeley County,11,110271.0,3.5
+SC,Lancaster County,4,43533.0,3.4
+TN,Wilson County,4,75634.0,3.3
+TN,Maury County,5,59410.0,3.0
+SC,Edgefield County,4,15550.0,3.0
+SC,Spartanburg County,17,128281.0,2.9
+TN,Loudon County,5,33915.0,2.9
+TN,Montgomery County,7,106308.0,2.5

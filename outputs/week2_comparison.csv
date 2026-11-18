@@ -1,0 +1,11 @@
+,Baseline,Optimized
+sites_open,14.0,22.0
+avg_miles,24.7,15.5
+longest_miles,135.8,45.0
+avg_utilization_pct,71.0,43.0
+max_utilization_pct,115.0,99.0
+overloaded_sites,5.0,0.0
+covered_demand_pct,81.3,95.1
+zips_beyond_radius,350.0,0.0
+unserved_zips,0.0,150.0
+network_cost_millions,209.4,198.7

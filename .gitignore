@@ -1,0 +1,9 @@
+# Census downloads, re created by src/data_prep.py
+data/raw/
+
+# Python and macOS
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+__MACOSX/
