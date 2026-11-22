@@ -1,0 +1,29 @@
+site_id,state,zcta,lat,lon,metro,opened_baseline,opened_optimized,load_optimized_pct
+TN-01,TN,38464,35.289918,-87.433746,Other,False,False,0.0
+TN-02,TN,37343,35.166587,-85.212257,Chattanooga,True,True,50.0
+TN-03,TN,38134,35.17454,-89.860777,Memphis,True,True,88.0
+TN-04,TN,37919,35.914748,-84.000169,Knoxville,True,True,83.0
+TN-05,TN,37615,36.398218,-82.452386,Tri-Cities TN,True,True,31.0
+TN-06,TN,38355,35.784009,-88.775061,Other,False,True,15.0
+TN-07,TN,37179,35.812608,-86.910077,Nashville,True,True,42.0
+TN-08,TN,37075,36.339969,-86.607922,Nashville,True,True,52.0
+TN-09,TN,38501,36.226045,-85.533285,Other,False,True,13.0
+TN-10,TN,37040,36.522319,-87.327933,Nashville,False,True,25.0
+TN-11,TN,37388,35.351487,-86.198185,Other,False,True,17.0
+TN-12,TN,37309,35.301834,-84.741456,Chattanooga,False,False,0.0
+TN-13,TN,37748,35.945373,-84.516366,Knoxville,False,False,0.0
+TN-14,TN,37212,36.133773,-86.801688,Nashville,True,True,99.0
+TN-15,TN,37129,35.929834,-86.450822,Nashville,True,False,0.0
+TN-16,TN,37890,36.080387,-83.293078,Knoxville,False,True,17.0
+SC-01,SC,29404,32.897841,-80.052445,Charleston,True,True,87.0
+SC-02,SC,29303,34.995296,-81.968368,Greenville-Spartanburg,False,False,0.0
+SC-03,SC,29168,33.848449,-80.540767,Columbia SC,False,True,14.0
+SC-04,SC,29649,34.238919,-82.145019,Other,False,False,0.0
+SC-05,SC,29579,33.76636,-78.913478,Myrtle Beach,True,True,35.0
+SC-06,SC,29670,34.643979,-82.723237,Greenville-Spartanburg,True,True,28.0
+SC-07,SC,29615,34.856825,-82.296139,Greenville-Spartanburg,True,True,89.0
+SC-08,SC,29732,34.970716,-81.081364,York County SC,True,True,39.0
+SC-09,SC,29210,34.045458,-81.110262,Columbia SC,True,True,70.0
+SC-10,SC,29909,32.336992,-80.848074,Other,False,True,23.0
+SC-11,SC,29501,34.204581,-79.82697,Other,False,True,16.0
+SC-12,SC,29851,33.511092,-81.815851,Other,False,True,17.0

@@ -1,0 +1,12 @@
+metro,zips,households,demand,demand_share_pct,avg_miles,unserved_zips,open_stations
+Nashville,84,821556.0,1122473.0,20.7,14.7,0,4
+Other,337,1065978.0,900545.0,16.6,18.2,135,6
+Greenville-Spartanburg,68,526666.0,623268.0,11.5,15.7,2,2
+Knoxville,77,464070.0,519100.0,9.6,17.2,5,2
+Memphis,43,395064.0,472171.0,8.7,12.0,0,1
+Charleston,37,320167.0,467301.0,8.6,14.1,1,1
+Columbia SC,55,382854.0,430708.0,8.0,16.1,2,2
+Chattanooga,50,235329.0,269729.0,5.0,15.8,0,1
+York County SC,27,191089.0,222265.0,4.1,14.0,3,1
+Myrtle Beach,22,184856.0,202156.0,3.7,14.5,1,1
+Tri-Cities TN,35,211067.0,183383.0,3.4,17.3,1,1

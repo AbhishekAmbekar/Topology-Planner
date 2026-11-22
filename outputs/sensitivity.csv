@@ -1,0 +1,12 @@
+scenario,sites_open,avg_miles,longest_miles,avg_utilization_pct,max_utilization_pct,overloaded_sites,covered_demand_pct,zips_beyond_radius,unserved_zips,network_cost_millions,coverage_target_used,solve_seconds,hit_time_limit
+Base case,22,15.5,45.0,43.0,99.0,0,95.1,0,150,198.7,95.0,0,False
+Capacity minus 20%,25,14.7,44.9,48.0,100.0,0,95.0,0,148,210.9,95.0,0,False
+Capacity plus 20%,22,15.5,45.0,36.0,88.0,0,95.1,0,150,198.6,95.0,0,False
+Site cost minus 20%,22,15.5,45.0,43.0,97.0,0,95.1,0,150,175.0,95.0,0,False
+Site cost plus 20%,21,16.7,45.0,45.0,98.0,0,95.0,0,152,222.1,95.0,0,False
+Coverage 90%,18,15.0,45.0,50.0,99.0,0,90.1,0,240,170.4,90.0,0,False
+Coverage 98%,27,15.0,44.9,36.0,89.0,0,97.4,0,97,225.4,97.4,0,False
+Radius 35 miles,28,13.2,34.8,34.0,86.0,0,94.1,0,191,218.8,94.0,0,False
+Radius 60 miles,16,18.4,59.9,59.0,100.0,0,95.0,0,116,181.0,95.0,0,False
+Circuity 1.2,20,14.7,45.0,48.0,100.0,0,95.0,0,137,184.1,95.0,0,False
+Circuity 1.4,24,16.1,45.0,40.0,99.0,0,95.2,0,154,213.1,95.0,0,False

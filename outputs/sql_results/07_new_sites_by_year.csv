@@ -1,0 +1,11 @@
+scenario,year_opened,new_stations,stations
+Base,3,1,SC-04
+Base,4,1,TN-13
+Delayed launches,3,1,SC-04
+Delayed launches,4,1,TN-13
+High growth,2,1,SC-04
+High growth,3,2,"TN-13, TN-15"
+High growth,4,2,"TN-01, SC-02"
+"High growth, delayed",3,2,"TN-13, SC-04"
+"High growth, delayed",4,2,"TN-15, SC-02"
+"High growth, delayed",5,1,TN-01

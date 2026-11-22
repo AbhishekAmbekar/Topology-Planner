@@ -1,0 +1,8 @@
+ZIPs in TN and SC from relationship file: 1062
+Dropped for missing ACS or coordinates: 0
+Dropped for under 500 households: 227
+Share of households dropped by threshold: 0.89%
+ZIPs kept: 835
+Candidate sites: 28
+Demand weighted average distance to nearest site: 15.1 miles (circuity included)
+Longest nearest site distance: 75.7 miles
